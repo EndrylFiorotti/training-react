@@ -1,0 +1,21 @@
+.rank {
+    padding: 32px;
+
+    text-align: center;
+}
+
+.rank h3 {
+    padding-bottom: 8px;
+
+    display: inline-block;
+    font-size: 32px;
+    border-bottom: 4px solid;
+}
+
+.rank .characters {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    margin-top: 32px;
+    flex-wrap: wrap;
+}
